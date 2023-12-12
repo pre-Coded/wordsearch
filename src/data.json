@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "word": "Benevolent",
+      "meaning": "Well-meaning and kindly.",
+      "partOfSpeech": "Adjective",
+      "phonetic": "/bɪˈnɛv.ə.lənt/"
+    },
+    {
+      "id": "2",
+      "word": "Ephemeral",
+      "meaning": "Lasting for a very short time.",
+      "partOfSpeech": "Adjective",
+      "phonetic": "/ɪˈfɛm.ər.əl/"
+    },
+    {
+      "id": "3",
+      "word": "Obfuscate",
+      "meaning": "To deliberately make something unclear or difficult to understand.",
+      "partOfSpeech": "Verb",
+      "phonetic": "/ˈɒb.fʌ.skeɪt/"
+    },
+    {
+      "id": "4",
+      "word": "Quixotic",
+      "meaning": "Extremely idealistic; unrealistic and impractical.",
+      "partOfSpeech": "Adjective",
+      "phonetic": "/kwɪkˈsɒt.ɪk/"
+    },
+    {
+      "id": "5",
+      "word": "Ubiquitous",
+      "meaning": "Present, appearing, or found everywhere.",
+      "partOfSpeech": "Adjective",
+      "phonetic": "/juːˈbɪk.wɪ.təs/"
+    },
+    {
+      "id": "6",
+      "word": "Pernicious",
+      "meaning": "Having a harmful effect, especially in a gradual or subtle way.",
+      "partOfSpeech": "Adjective",
+      "phonetic": "/pəˈnɪʃ.əs/"
+    },
+    {
+      "id": "7",
+      "word": "Voracious",
+      "meaning": "Wanting or devouring great quantities of food; having a very eager approach to a particular activity.",
+      "partOfSpeech": "Adjective",
+      "phonetic": "/vəˈreɪ.ʃəs/"
+    },
+    {
+      "id": "8",
+      "word": "Serendipity",
+      "meaning": "The occurrence and development of events by chance in a happy or beneficial way.",
+      "partOfSpeech": "Noun",
+      "phonetic": "/ˌser.ənˈdɪp.ɪ.ti/"
+    },
+    {
+      "id": "9",
+      "word": "Cacophony",
+      "meaning": "A harsh, discordant mixture of sounds.",
+      "partOfSpeech": "Noun",
+      "phonetic": "/kəˈkɒf.ə.ni/"
+    },
+    {
+      "id": "10",
+      "word": "Mellifluous",
+      "meaning": "(of a voice or words) Sweet or musical; pleasant to hear.",
+      "partOfSpeech": "Adjective",
+      "phonetic": "/məˈlɪf.lu.əs/"
+    }
+  ]
+  
